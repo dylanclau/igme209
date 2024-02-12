@@ -30,7 +30,7 @@ void printAlphabet() {
     
     // Write your code below to print the Alphabet.
     for (int i = 65; i < 91; i++) {
-        printf("%c", arr[i]);
+        printf("%c ", i);
     }
 
 
@@ -45,8 +45,8 @@ void printMultiplesOfSeven() {
     
     // Write your code below to find and print these numbers.
     for (int i = 0; i < 100; i++) {
-        if ((arr[i] % 7) == 0) {
-            printf("%d", arr[i]);
+        if ((i % 7) == 0) {
+            printf("%d ", i);
         }
     }
 
