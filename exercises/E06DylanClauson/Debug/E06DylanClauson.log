@@ -1,2 +1,8 @@
-﻿  LINK : C:\Users\dylan\OneDrive\Desktop\repositories\igme209\exercises\E06DylanClauson\Debug\E06DylanClauson.exe not found or not built by the last incremental link; performing full link
-  E06DylanClauson.vcxproj -> C:\Users\dylan\OneDrive\Desktop\repositories\igme209\exercises\E06DylanClauson\Debug\E06DylanClauson.exe
+﻿  E06DylanClauson.cpp
+D:\Profiles\dac7432\repos\igme209\exercises\E06DylanClauson\E06DylanClauson.cpp(45,25): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Profiles\dac7432\repos\igme209\exercises\E06DylanClauson\E06DylanClauson.cpp(45,20): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Profiles\dac7432\repos\igme209\exercises\E06DylanClauson\E06DylanClauson.cpp(88,21): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Profiles\dac7432\repos\igme209\exercises\E06DylanClauson\E06DylanClauson.cpp(97,23): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Profiles\dac7432\repos\igme209\exercises\E06DylanClauson\E06DylanClauson.cpp(106,23): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Profiles\dac7432\repos\igme209\exercises\E06DylanClauson\E06DylanClauson.cpp(123,19): warning C4305: 'argument': truncation from 'double' to 'float'
+  E06DylanClauson.vcxproj -> D:\Profiles\dac7432\repos\igme209\exercises\E06DylanClauson\Debug\E06DylanClauson.exe
